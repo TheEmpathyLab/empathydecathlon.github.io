@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pixyll</title>
+    <title>Empathy Lab</title>
     <description>A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff.</description>
     <link>http://pixyll.com/</link>
     <atom:link href="http://pixyll.com/feed.xml" rel="self" type="application/rss+xml" />
@@ -62,6 +62,32 @@ Ha, to know where Empathy Lab came from is&lt;/p&gt;
         <pubDate>Sat, 11 Jul 2015 00:00:00 -0400</pubDate>
         <link>http://pixyll.com/jekyll/introduction/2015/07/11/announcing-pixyll-version-2/</link>
         <guid isPermaLink="true">http://pixyll.com/jekyll/introduction/2015/07/11/announcing-pixyll-version-2/</guid>
+      </item>
+    
+      <item>
+        <title>On Founding the Empathy Lab</title>
+        <description>&lt;p&gt;First off, &lt;strong&gt;thank you&lt;/strong&gt; for taking the time to check out Empathy Lab. This “lab” is in its infancy, thus, there isn’t much to say about it. It got named, was given a Twitter account, and is being taught to listen and be kind. What can be shared is Empathy Lab’s founding hypothesis. I believe that we don’t know enough about each other. Through my personal&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I am going to gather stories from people by talking directly with them (in-person or video).&lt;/li&gt;
+  &lt;li&gt;I am going to attempt create individual stories in a way that gives readers a view into the lives of other people.&lt;/li&gt;
+  &lt;li&gt;These stories are meant to provide the reader small slice of empathy for other &lt;strong&gt;real&lt;/strong&gt; people&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;where-did-this-come-from&quot;&gt;Where did this come from?&lt;/h2&gt;
+
+&lt;p&gt;The Empathy Lab’s core comes from a step in the product design cycle, user research. Through things like user interviews, surveys, and observational research. After conducting a round or research, an artifact like a persona is produced and shared with the team. A persona represents is a conglomeration of gathered user information  Since a majority of products are positioned to be used by people, the better you understand your user, the more likely you will be successful with your product-market-user fit.&lt;/p&gt;
+
+&lt;h2 id=&quot;want-to-get-involved&quot;&gt;Want to get involved?&lt;/h2&gt;
+
+&lt;h2 id=&quot;what-is-the-outcome&quot;&gt;What is the outcome?&lt;/h2&gt;
+
+&lt;p&gt;Stories about people for you to consume. Maybe some
+## How does Empathy Lab make money?&lt;/p&gt;
+</description>
+        <pubDate>Sat, 11 Jul 2015 00:00:00 -0400</pubDate>
+        <link>http://pixyll.com/pixyll/jekyll/introduction/2015/07/11/announcing-pixyll-version-2/</link>
+        <guid isPermaLink="true">http://pixyll.com/pixyll/jekyll/introduction/2015/07/11/announcing-pixyll-version-2/</guid>
       </item>
     
   </channel>
