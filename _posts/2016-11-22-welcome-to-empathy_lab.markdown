@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Empathy for Me"
+date:   2016-11-22 20:53:47 -0500
+summary:    About Shelton
+categories: jekyll update
+---
+I grew up in Orange, California in the 1980s. Born on February 2nd, 1980, I was brought into this world as Bashir Bologala Davis. My name, different than it is now, is who I was until I was 2. I look back on this in amazement as my own son, Grayson, cannot be imagine as any other name. He speaks of himself as "Aysun". From my point of view, we chose his name, and he has happily adopted it. It does make me wonder if somewhere deep inside me there is a little boy named Bashir waiting to grow up. I've thought about changing my name back for some time, but have grown to accept the weirdness that is Shelton J Davis. I am weird, so the name makes sense. Back to my past, I was born to an amazing mother, Christine Lynn Davis, or Ilambe as she was known in Zaire. Along with her I got two amazing grandparents, Bernard and Julia Davis, both school teachers. Grandpa was a highschool English and French teacher while Grandma was 1-3rd grade teacher. My mom had a string of jobs growing up, security guard, data entry, and secretary. There is this picture of my mom, all 4'10" of her, wearing her security guard uniform. Don't let looks deceive you, despite her stature, she was not to be messed with. Between my mom and grandparents, I had an amazing nest to grow up in. I don't talk about my father yet because he wasn't in the picture until later in my life. We met akwardly at a cigar shop at a mall near where my mom and I lived. The Mall of Orange and my father was working at The Tinder Box.
+
+My mom and I lived in a two bedroom apartment in Orange on Tustin Avenue. I only recall the upstairs apartment from stories and pictures, but we lived in a until just above the unit I remember well. I believe we lived upstairs until I was about 3 when my mom decided that we needed more space, so we moved downstairs to the apartment with 2 bedrooms and a patio! When we lived upstairs, I know of two incidents that occurred. I fell off our balcony into a bush and I got drunk by drinking a beer by myself. The second story I know more about because I was told it several times growing up. Supposidely, I would wander to the back alley where all the cars were and occasionally there was a guy working on his car. I must have frequented his workshop because I was allowed to drink out of his water cup. Watching him work, I probably asked him little 3 year old questions, poked things with a screwdriver, and fiddled with left over parts. One day, the water cup had beer in it, and I must have just toddlered-up and drank the whole thing. Post consuming what was probably a Miller Lite, I wondered upstairs a bit later, told my mom I wasn't feeling well and proceeded to throw up all over the livingroom. How much of this is true, I don't know...but it's a good story. I got drunk when I was 3.
+
+I remember the downstairs apartment much better because I had neighborhood friends, a tree, and distinct memories of walking to the car on Tustin Avenue, and walking to Stop N Go with my mom. She was and still is the most elegant woman I know. Even cooking me Kraft Macaroni and Cheese, she was amazing. Future men that court her beware, I will not like you and several of you later on are seconds away from meeting the aluminum bat I found in the ditch. There was the tree up the hill towards my best friends house, (andy). We would help each other climb it because we weren't big enough alone. The neighborhood was packed with kids of all ages. There was the resident bully, several girls, and most of us were minorities which meant eating at eachothers houses was GREAT. From Vietnamese dinner, to Mexican lunches, food was always part of visiting friends. My best friend was Vietnamese, his name was Andy. He had a little brother named Guy Wei. Everytime I would go over to Andy's house to see if he could play, his little brother would come with. I distintly remember he coming without pants most of the time. Knowing what I know now, he was potty training, BUT to a me at the time, this kid was weird. Not only did he run around bottomless, he would randomly pee on things. On several ocassions, we would find him squatting in the middle of the sidewalk pooping. I am sure he is doing a lot better now.
+
+Living downstairs with my mom was amazing. I remember pulling the black and white tv into position so that we could lay on the ground with our legs in the hallway and watch the Wonderful World of Disney, or National Geographic. (I want the National Geographic for Christmas.) We also had a parrot named Nakito, it was loud and I wasn't allowed to touch it because it would bite me. Only my mom and Henry were allowed to touch it. Henry was one of my mom's friends that I liked. We also had a gerbil (name) and my life long friend, a cockatiel, Robbie. Robbie was white and yellow and finally scared Laura as I put Robbie in my freezer when he finally passed away. Yes, he lived that long.
+
+The aparment complex had some rather interesting features to it. It was long and deep. The deeper you got into the complex, the more dangerous it got. Kids from the outside, where we lived, didn't venture "inland" because that is where the real gangs were. You knew you were getting to far into the complex when the always crowing birds were overhead. Also, you would probably get pooped on, and getting pooped while sporting an afro is bad news.
+
+## People as chapters to my life
+1. **Andy and Guy Wei** - *Preschool, Elementary*
+1. **Eric Sheldrake** - *Elementary* surfing, boogie boarding, early mornings, donuts, vanagon, modern designed bedroom, accent
+2. **Reynier Jacinto** - *Elementary - HS* ditch adventures, building castles, bike riding, video games, cars, CV basketball
+3. **Chris Hillman** - *HS* basketball, track
+4. **Justin Hales** - *Junior college*
+5. **Robert Fuentes** - *Junior college*
+6. **Laura Davis** - *College*
+
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
