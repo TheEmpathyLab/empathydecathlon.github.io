@@ -4,7 +4,12 @@
     {% endif %}
 {% endfor %}
 {% for page in site.pages %}
-    {% if page.tags contains "contact" %}
+    {% if page.tags contains "share" %}
+        <a href="{{ page.url }}">{{ page.title }}</a>
+    {% endif %}
+{% endfor %}
+{% for page in site.pages %}
+    {% if page.tags contains "social" %}
         <a href="{{ page.url }}">{{ page.title }}</a>
     {% endif %}
 {% endfor %}

@@ -1,10 +1,10 @@
 # Site settings
 title:       Empathy Lab
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+email:       theempathylab@gmail.com
+author:      Shelton Davis
+description: "Empathy Lab : Learn about people different from you."
+baseurl:     "/theempathylab.github.io"
+url:         "http://theempathylab.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -45,7 +45,7 @@ facebook_comments_number: 10
 github_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username:"theempathylab"
 skype_username:
 steam_nickname:
 google_plus_id:

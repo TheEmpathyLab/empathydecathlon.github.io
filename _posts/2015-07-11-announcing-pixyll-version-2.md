@@ -6,7 +6,7 @@ summary:    Why the Empathy Lab is here.
 categories: jekyll introduction
 ---
 
-First off, **thank you** for taking the time to check out Empathy Lab. This "lab" is in its infancy, thus, there isn't much to say about it. It got named, was given a Twitter account, and is being taught to listen and be kind. What can be shared is Empathy Lab's founding hypothesis. I believe that we don't know enough about each other. Through my personal
+First off, **thank you** for taking the time to check out The Empathy Lab. This "lab" is in its infancy, thus, there isn't much to say about it. It got named, was given a Twitter account, and is being taught to listen and be kind. What can be shared is Empathy Lab's founding hypothesis. I believe that we don't know enough about each other and this lack of knowledge leads us to make bad generalizations about others. With more knowledge and understanding about **real** people outside of our individual bubbles, the divisions that we currently face will start to break down.
 
 - I am going to gather stories from people by talking directly with them (in-person or video).
 - I am going to attempt create individual stories in a way that gives readers a view into the lives of other people.
